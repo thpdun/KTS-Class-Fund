@@ -12,7 +12,7 @@ Dự án được thực hiện trong khuôn khổ học phần **ECO2432 – Ti
 | STT | Họ và tên | Mã sinh viên |
 |---|---|---|
 | 1 | Trần Hoàng Phương Dung | 23K4300004 |
-
+| 2 | Võ Ngọc Tâm Phúc | 23K4300015 |
 
 ## 3. Vấn đề cần giải quyết
 
