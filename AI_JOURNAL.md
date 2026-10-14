@@ -1,16 +1,6 @@
-# NHẬT KÝ LÀM VIỆC VỚI AI - [Tên bài]
+# NHẬT KÝ SỬ DỤNG AI — KTS CLASS FUND
 
-## Lần 1
+Tài liệu nhật ký làm việc và đối soát AI chính thức của nhóm được lưu trữ tại:
+👉 [docs/AI_JOURNAL.md](docs/AI_JOURNAL.md)
 
-**Prompt:** dán nguyên văn.
-
-**AI trả về:** tóm tắt.
-
-**Đánh giá:** Dùng được / Phải sửa / Sai, bỏ.
-
-**Chỗ sai:** mô tả cụ thể, kèm dòng mã hoặc dữ liệu đối chiếu.
-
-**Cách sửa:** sinh viên đã làm gì.
-
-**Ai phát hiện:** AI tự nhận / Sinh viên phát hiện.
-
+Vui lòng xem chi tiết các phiên làm việc và mẫu biểu ghi chép tại đường dẫn trên.
